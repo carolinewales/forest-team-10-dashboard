@@ -41,6 +41,7 @@ One row per person. The same role may appear on more than one row.
 | Brian Mejia-Lopez | mejiba26 | Spec Lead, Design Lead |
 | Brinda Laddha | brindaladdha1 | Pitch Lead |
 | Aiden Kranz | AidenKranz | Data Lead |
+| Haoran Zhang | HaoranZhang01 | Design Lead |
 
 ## Side quests
 
