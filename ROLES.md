@@ -38,7 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Caroline Wales | carolinewales | Delivery Lead |
-| Brian Mejia-Lopez | mejiba26 | Strategist and Designer |
+| Brian Mejia-Lopez | mejiba26 | Spec Lead, Design Lead |
 | Aiden Kranz | AidenKranz | Data Lead |
 
 ## Side quests
