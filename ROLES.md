@@ -39,6 +39,7 @@ One row per person. The same role may appear on more than one row.
 |---|---|---|
 | Caroline Wales | carolinewales | Delivery Lead |
 | Brian Mejia-Lopez | mejiba26 | Strategist and Designer |
+| Aiden Kranz | AidenKranz | Data Lead |
 
 ## Side quests
 
